@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website_sparow=self.webpackChunkmy_website_sparow||[]).push([[2773],{8467:s=>{s.exports=JSON.parse('{"permalink":"/Sparrow-docusurus/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

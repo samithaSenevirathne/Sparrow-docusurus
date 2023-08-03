@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website_sparow=self.webpackChunkmy_website_sparow||[]).push([[841],{8233:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/Sparrow-docusurus/blog/tags/facebook","allTagsPath":"/Sparrow-docusurus/blog/tags","count":1}')}}]);
